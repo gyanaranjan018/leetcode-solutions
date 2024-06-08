@@ -9,6 +9,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 # Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0002-add-two-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # String
 |  |
 | ------- |
@@ -43,7 +45,12 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
