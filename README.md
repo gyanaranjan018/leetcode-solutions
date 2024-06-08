@@ -6,6 +6,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 # Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 # String
 |  |
