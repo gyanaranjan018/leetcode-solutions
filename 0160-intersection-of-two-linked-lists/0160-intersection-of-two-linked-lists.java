@@ -29,23 +29,21 @@ public class Solution {
         temp1 = headA;
         temp2 = headB;
 
-        if(n2 > n1){
-            for(int i = 0; i< n2-n1; i++){
-                temp2 = temp2.next;
-            }
+        if(n1 < n2){
+            return collisionPoint(temp1, temp2, n2-n1);
         }
-        else if(n1 > n2){
-            for(int i = 0; i< n1-n2; i++){
-                temp1 = temp1.next;
-            }
+        else{
+            return collisionPoint(temp2, temp1, n1-n2);
         }
-        while(temp1 != null && temp2 != null){
-            if(temp1 == temp2){
-                return temp1;
-            }
-            temp1 = temp1.next;
-            temp2 = temp2.next;
+    }
+    public ListNode collisionPoint(ListNode smaller, ListNode greater, int diff){
+        for(int i = 0; i < diff; i++){
+            greater = greater.next;
         }
-        return null;
+        while(smaller != greater){
+            smaller = smaller.next;
+            greater = greater.next;
+        }
+        return smaller;
     }
 }
