@@ -14,16 +14,36 @@ public class Solution {
         Set<ListNode> set = new HashSet<>();
         ListNode temp1 = headA;
         ListNode temp2 = headB;
+        int n1 =0, n2=0;
 
         while(temp1 != null){
-            set.add(temp1);
+            n1++;
             temp1 = temp1.next;
         }
 
         while(temp2 != null){
-            if(set.contains(temp2)){
-                return temp2;
+            n2++;
+            temp2 = temp2.next;
+        }
+
+        temp1 = headA;
+        temp2 = headB;
+
+        if(n2 > n1){
+            for(int i = 0; i< n2-n1; i++){
+                temp2 = temp2.next;
             }
+        }
+        else if(n1 > n2){
+            for(int i = 0; i< n1-n2; i++){
+                temp1 = temp1.next;
+            }
+        }
+        while(temp1 != null && temp2 != null){
+            if(temp1 == temp2){
+                return temp1;
+            }
+            temp1 = temp1.next;
             temp2 = temp2.next;
         }
         return null;
