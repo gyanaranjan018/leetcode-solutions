@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head.next == null) return null;
+        if(head == null || head.next == null) return null;
         //skip one step for slow to get slow at prev of middle node after completion of loop
         ListNode slow = head, fast = head.next.next ;
         while(fast !=null && fast.next != null){
