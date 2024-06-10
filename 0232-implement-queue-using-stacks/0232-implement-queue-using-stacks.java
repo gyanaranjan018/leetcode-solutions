@@ -1,31 +1,41 @@
 class MyQueue {
-    Stack<Integer> st1; //for push operation - rear
-    Stack<Integer> st2; //for pop operation - front
+    Stack<Integer> input; 
+    Stack<Integer> output; 
     public MyQueue() {
-        st1 = new Stack<>();
-        st2 = new Stack<>();
+        input = new Stack<>();
+        output = new Stack<>();
     }
     
     public void push(int x) {
-        while(!st2.empty()){
-            st1.push(st2.pop());
-        }
-        st1.push(x);
-        while(!st1.empty()){
-            st2.push(st1.pop());
-        }
+        input.push(x);
     }
     
     public int pop() {
-        return st2.pop();
+        if(!output.empty()){
+            return output.pop();
+        }
+        else{
+            while(!input.empty()){
+                output.push(input.pop());
+            }
+            return output.pop();
+        }
     }
     
     public int peek() {
-        return st2.peek();
+        if(!output.empty()){
+            return output.peek();
+        }
+        else{
+            while(!input.empty()){
+                output.push(input.pop());
+            }
+            return output.peek();
+        }
     }
     
     public boolean empty() {
-        return st2.empty();
+        return (input.empty() && output.empty());
     }
 }
 
