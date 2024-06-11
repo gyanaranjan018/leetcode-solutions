@@ -11,8 +11,8 @@ class LRUCache {
         }
     }
     //create head and tail node to keep tarck of start and end
-    Node head = new Node(-1, -1);
-    Node tail = new Node(-1, -1);
+    Node head = new Node(0, 0);
+    Node tail = new Node(0, 0);
     int cap;
     Map<Integer, Node> cache;
 
@@ -28,31 +28,25 @@ class LRUCache {
             return -1;
         }
         Node res = cache.get(key);
-        int resdata = res.val;
         deleteNode(res);
         addNode(res);
-        //head.next because taht is the address where we inserted res
-        cache.put(key, head.next);
-        return resdata;
+        return res.val;
     }
     
     public void put(int key, int value) {
         if(cache.containsKey(key)){
-            Node existingNode = cache.get(key);
-            cache.remove(key);
-            deleteNode(existingNode);
+            deleteNode(cache.get(key));
         }
         if(cache.size() == cap){
             //delete the tail.prev as that is not used in a while
-            cache.remove(tail.prev.key);
             deleteNode(tail.prev);                    
         }
         addNode(new Node(key, value));
-        cache.put(key, head.next);
     }
 
     //Adds node after the head node
     public void addNode(Node newNode){
+        cache.put(newNode.key, newNode);
         Node temp = head.next;
         newNode.next = temp;
         newNode.prev = head;
@@ -62,10 +56,9 @@ class LRUCache {
 
     //deletes the node.
     public void deleteNode(Node delNode){
-        Node back = delNode.prev;
-        Node front = delNode.next;
-        back.next = front;
-        front.prev = back;
+        cache.remove(delNode.key);
+        delNode.prev.next = delNode.next;
+        delNode.next.prev = delNode.prev;
     }
 
 }
