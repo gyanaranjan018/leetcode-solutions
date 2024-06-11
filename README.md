@@ -21,6 +21,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
+| [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 # Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0225-implement-stack-using-queues](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 # Design
 |  |
 | ------- |
@@ -85,3 +87,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0225-implement-stack-using-queues](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
