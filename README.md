@@ -25,6 +25,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 # Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 # Design
 |  |
 | ------- |
@@ -108,3 +110,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0146-lru-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
+# Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
