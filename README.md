@@ -15,6 +15,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0142-linked-list-cycle-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
 # Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0146-lru-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 # Queue
 |  |
@@ -98,3 +101,4 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
