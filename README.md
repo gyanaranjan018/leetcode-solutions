@@ -23,6 +23,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 # Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0146-lru-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 # Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0225-implement-stack-using-queues](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 # Design
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 # Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 # Doubly-Linked List
 |  |
