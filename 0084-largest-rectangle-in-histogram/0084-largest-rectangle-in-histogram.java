@@ -1,50 +1,18 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int[] nsr = nearestSmallestRight(heights);
-        int[] nsl = nearestSmallestLeft(heights);
-        int ans = Integer.MIN_VALUE;
-        for(int i = 0; i < heights.length; i++){
-            int left = nsl[i];
-            int right = nsr[i];
-            ans = Math.max(ans, heights[i] * ((right-left) - 1)); 
-        }
-        return ans;
-    }
-    public int[] nearestSmallestRight(int[] heights){
-        int[] stack = new int[heights.length];
-        int peek = -1;
-        int[] res = new int[heights.length];
-        for(int i = heights.length - 1; i >= 0; i--){
-            while(peek >= 0 && heights[i] <= heights[stack[peek]]){
-                peek--;
+         Stack<Integer> st = new Stack<>();
+         int maxArea = 0;
+         int n = heights.length;
+         for(int i = 0; i<= n; i++){
+            while(!st.isEmpty() && (i == n || heights[i] <= heights[st.peek()])){
+                int right = i;
+                int height = heights[st.pop()];
+                int left = st.isEmpty() ? -1 : st.peek();
+                int width = right - left -1;
+                maxArea = Math.max(maxArea, height * width);
             }
-            if(peek < 0){
-                res[i] = heights.length;
-            }
-            else{
-                res[i] = stack[peek];
-            }
-            stack[++peek] = i;
-        }
-        return res;
-    }
-
-    public int[] nearestSmallestLeft(int[] heights){
-        int[] stack = new int[heights.length];
-        int peek = -1;
-        int[] res = new int[heights.length];
-        for(int i = 0; i < heights.length; i++){
-            while(peek >= 0 && heights[i] <= heights[stack[peek]]){
-                peek--;
-            }
-            if(peek < 0){
-                res[i] = -1;
-            }
-            else{
-                res[i] = stack[peek];
-            }
-            stack[++peek] = i;
-        }
-        return res;
+            st.push(i);
+         }
+         return maxArea;
     }
 }
