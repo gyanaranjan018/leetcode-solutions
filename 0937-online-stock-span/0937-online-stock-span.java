@@ -1,19 +1,23 @@
 class StockSpanner {
+    final int N = 10010;
     int[] days;
-    int top;
+    int ind;
+    int[] nge;
+    int peek;
     public StockSpanner() {
-        days = new int[10000];
-        top = -1;
+        days = new int[N];
+        nge = new int[N];
+        ind = 0;
+        peek = -1;
     }
     
     public int next(int price) {
-        days[++top] = price;
-        int span = 0;
-        int i = top;
-        while( i >= 0 && days[i] <= days[top]){
-            span++;
-            i--;
+        while(peek >= 0 && price >= days[nge[peek]]){
+            peek--;
         }
+        int span = peek < 0 ? ind + 1 : ind - nge[peek];
+        nge[++peek] = ind;
+        days[ind++] = price;
         return span;
     }
 }
