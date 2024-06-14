@@ -15,14 +15,7 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        if(root == null){
-            return true;
-        }
-        int res = maxDepth(root);
-        if(res == -1){
-            return false;
-        }
-        return true;
+        return maxDepth(root) != -1;
     }
 
     public int maxDepth(TreeNode root){
@@ -31,9 +24,10 @@ class Solution {
         }
 
         int lh = maxDepth(root.left);
-        int rh = maxDepth(root.right);
+        if(lh == -1) return -1;
 
-        if(lh == -1 || rh == -1) return -1;
+        int rh = maxDepth(root.right);
+        if(rh == -1) return -1;
 
         if(Math.abs(lh-rh) > 1) return -1;
 
