@@ -23,13 +23,13 @@ class Solution {
         Stack<TreeNode> st2 = new Stack<>();
         st1.push(root);
         while(!st1.isEmpty()){
-            TreeNode node = st1.pop();
-            st2.push(node);
-            if(node.left != null){
-                st1.push(node.left);
+            root = st1.pop();
+            st2.push(root);
+            if(root.left != null){
+                st1.push(root.left);
             }
-            if(node.right != null){
-                st1.push(node.right);
+            if(root.right != null){
+                st1.push(root.right);
             }
         }
         while(!st2.isEmpty()){
