@@ -62,6 +62,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0003-longest-substring-without-repeating-characters](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0800-letter-case-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 # Sliding Window
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 # Stack
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0800-letter-case-permutation) |
