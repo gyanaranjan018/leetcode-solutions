@@ -62,6 +62,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0003-longest-substring-without-repeating-characters](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0800-letter-case-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 # Sliding Window
 |  |
 | ------- |
@@ -190,8 +191,10 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 # Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0800-letter-case-permutation) |
