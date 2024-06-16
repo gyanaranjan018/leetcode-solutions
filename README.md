@@ -24,6 +24,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -185,4 +186,9 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
