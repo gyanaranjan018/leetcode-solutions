@@ -19,15 +19,17 @@ class Solution {
         if(root == null){
             return 0;
         }
-        int lh = height(root.left);
-        int rh = height(root.right);
-        return Math.max( lh + rh , Math.max(diameterOfBinaryTree(root.left),diameterOfBinaryTree(root.right)));
+        findMax(root);
+        return max;
     }
 
-    public int height(TreeNode node){
+    public int findMax(TreeNode node){
         if(node == null){
             return 0;
         }
-        return 1+ Math.max(height(node.left), height(node.right));
+        int lh = findMax(node.left);
+        int rh = findMax(node.right);
+        max = Math.max(max, lh+rh);
+        return 1 + Math.max(lh, rh);
     }
 }
