@@ -21,11 +21,7 @@ class Solution {
         }
         int lh = height(root.left);
         int rh = height(root.right);
-        int diameter = lh+rh;
-        if(diameter > max) max = diameter;
-        diameterOfBinaryTree(root.left);
-        diameterOfBinaryTree(root.right);
-        return max;
+        return Math.max( lh + rh , Math.max(diameterOfBinaryTree(root.left),diameterOfBinaryTree(root.right)));
     }
 
     public int height(TreeNode node){
