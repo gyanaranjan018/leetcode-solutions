@@ -160,6 +160,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -223,3 +225,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0078-subsets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0800-letter-case-permutation) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
