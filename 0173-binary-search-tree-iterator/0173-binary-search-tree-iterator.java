@@ -17,29 +17,23 @@ class BSTIterator {
     Stack<TreeNode> st;
     public BSTIterator(TreeNode root) {
         st = new Stack<>();
-        while(root != null){
-            st.push(root);
-            root = root.left;
-        }
+        push(root);
     }
     
     public int next() {
         TreeNode curr = st.pop();
-        if(curr.right != null){
-            TreeNode temp = curr.right;
-            while(temp != null){
-                st.push(temp);
-                temp = temp.left;
-            }
-        }
+        push(curr.right);
         return curr.val;
     }
     
     public boolean hasNext() {
-        if(st.isEmpty()){
-            return false;
+        return !st.isEmpty();
+    }
+    public void push(TreeNode root){
+        while(root != null){
+            st.push(root);
+            root = root.left;
         }
-        return true;
     }
 }
 
