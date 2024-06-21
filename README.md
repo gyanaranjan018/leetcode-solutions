@@ -33,6 +33,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1138-grumpy-bookstore-owner](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1138-grumpy-bookstore-owner) |
 # Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1138-grumpy-bookstore-owner) |
 # Two Pointers
 |  |
 | ------- |
