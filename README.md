@@ -34,6 +34,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0860-design-circular-queue](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Hash Table
 |  |
 | ------- |
@@ -46,11 +47,13 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0460-lfu-cache](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1370-count-number-of-nice-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1370-count-number-of-nice-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Recursion
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
 | ------- |
