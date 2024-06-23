@@ -12,9 +12,9 @@ class Solution {
         return count;
     }
     public void dfs(int v, int[][] isConnected, boolean[] visited){
+        visited[v] = true;
         for(int i = 0; i < isConnected[v].length; i++){
-            if(isConnected[v][i] == 1 && visited[i] == false){
-                visited[i] = true;
+            if(isConnected[v][i] == 1 && !visited[i]){
                 dfs(i, isConnected, visited);
             }
         }
