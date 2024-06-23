@@ -197,6 +197,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Binary Tree
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Divide and Conquer
 |  |
@@ -272,3 +274,11 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0547-number-of-provinces) |
