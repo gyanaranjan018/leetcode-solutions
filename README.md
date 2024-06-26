@@ -185,6 +185,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0547-number-of-provinces](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1285-balance-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0148-sort-list) |
+| [1285-balance-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 # Iterator
 |  |
 | ------- |
@@ -291,3 +296,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0547-number-of-provinces) |
+# Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
