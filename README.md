@@ -310,6 +310,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -319,4 +320,16 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
