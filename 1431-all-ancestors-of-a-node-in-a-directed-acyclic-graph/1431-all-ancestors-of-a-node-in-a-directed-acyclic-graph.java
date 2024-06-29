@@ -1,38 +1,39 @@
 class Solution {
     public List<List<Integer>> getAncestors(int n, int[][] edges) {
-        HashMap<Integer,List<Integer>> adj = new HashMap<>();
+        List<List<Integer>> res = new ArrayList<>();
+        Map<Integer, List<Integer>> adj = new HashMap<>(); //S.C : O(V + E)
+
         for(int i = 0 ; i < n ; i++ ){
             adj.put(i,new ArrayList<>());
         }
-        for(int[] edge : edges ){
-            int from = edge[0];
-            int to = edge[1];
-            adj.get(to).add(from);
+
+        for(int[] i : edges){ //O(E)
+            int u = i[0];
+            int v = i[1];
+            adj.get(v).add(u);
         }
-        
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int i = 0 ; i < n ; i++){
-            List<Integer> temp = new ArrayList<>();
-            int[] vis = new int[n];
-            dfs(i , vis , temp , adj);
-            Collections.sort(temp);
-            ans.add(temp);
+
+        for(int u = 0; u< n; u++){ //O(V)
+            boolean[] visited = new boolean[n];
+            List<Integer> ancestor = new ArrayList<>();
+            
+            dfs(u, ancestor, adj, visited); //O(V+E)
+
+            Collections.sort(ancestor);
+            res.add(ancestor);
         }
-        
-        return ans;
+
+        return res;
     }
-    
-    public void dfs(int cur , int[] vis, List<Integer> temp, HashMap<Integer,List<Integer>> adj){
-        vis[cur] = 1;
-        for(Integer nbr : adj.get(cur)){
-            if( vis[nbr] == 0 ){
-                temp.add(nbr);
-                dfs(nbr , vis, temp, adj);
-                // temp.remove(nbr);
-            }    
+
+    private void dfs(int node, List<Integer> ancestor, Map<Integer, List<Integer>> adj,  boolean[] visited){
+        for(int ngbr : adj.get(node)){
+            if(!visited[ngbr]){
+                visited[ngbr] = true;
+                ancestor.add(ngbr);
+                dfs(ngbr, ancestor, adj, visited);
+            }            
         }
-        // vis[cur] = 0;
         return;
     }
-    
 }
