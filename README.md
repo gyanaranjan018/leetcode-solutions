@@ -306,10 +306,12 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
@@ -323,6 +325,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
@@ -331,5 +334,10 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
