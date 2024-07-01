@@ -6,25 +6,15 @@ class Solution {
         boolean[][] vis = new boolean[n][m];
         Queue<Pair> q = new LinkedList<>();
 
-        for(int row = 0; row < n; row++){
-            if(!vis[row][0] && grid[row][0] == 1){
-                q.add(new Pair(row, 0));
-                vis[row][0] = true;
-            }
-            if(!vis[row][m-1] && grid[row][m-1] == 1){
-                q.add(new Pair(row, m-1));
-                vis[row][m-1] = true;
-            }
-        }
-
-        for(int col = 0; col < m; col++){
-            if(!vis[0][col] && grid[0][col] == 1){
-                q.add(new Pair(0, col));
-                vis[0][col] = true;
-            }
-            if(!vis[n-1][col] && grid[n-1][col] == 1){
-                q.add(new Pair(n-1, col));
-                vis[n-1][col] = true;
+        for(int i = 0; i< n; i++){
+            for(int j = 0; j< m; j++){
+                //first row, first col, last row, last column
+                if(i == 0 || j == 0 || i == n-1 || j == m-1){
+                    if(grid[i][j] == 1){
+                        q.add(new Pair(i, j));
+                        vis[i][j] = true;
+                    }
+                }
             }
         }
 
