@@ -4,9 +4,7 @@ class Solution {
         List<Pair> list = new ArrayList<>(); //{maapedNum, Index}
 
         for(int i = 0; i< n; i++){
-            String numStr = Integer.toString(nums[i]);
-            String mappedStr = getMappedNum(numStr, mapping);
-            int mappedNum = Integer.parseInt(mappedStr);
+            int mappedNum = getMappedNum(nums[i], mapping);
             list.add(new Pair(mappedNum, i));
         }
         Collections.sort(list, (a, b) -> Integer.compare(a.mappedNum, b.mappedNum));
@@ -18,12 +16,19 @@ class Solution {
         return result;
     }
 
-    public String getMappedNum(String numStr, int[] mapping){
-        StringBuilder mappedNum = new StringBuilder();
-        for (char ch : numStr.toCharArray()) {
-            mappedNum.append(mapping[ch - '0']);
+    public int getMappedNum(int num, int[] mapping){
+        if(num < 10){
+            return mapping[num];
         }
-        return mappedNum.toString();
+        
+        int mappedVal = 0;
+        int placeValue = 1;
+        while(num > 0){
+            mappedVal += (mapping[num % 10] * placeValue);
+            num = num/10;
+            placeValue *= 10;
+        }
+        return mappedVal;
     }
 
     private static class Pair {
