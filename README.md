@@ -324,6 +324,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 ## Dynamic Programming
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
