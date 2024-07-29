@@ -7,13 +7,13 @@ class Solution {
             int countSmallerLeft = 0;
             for(int i = 0; i < j ;i++){
                 if(rating[i] < rating[j]) countSmallerLeft++;
-                if(rating[i] > rating[j]) countLargerLeft++;
+                else if(rating[i] > rating[j]) countLargerLeft++;
             }
             int countLargerRight = 0;
             int countSmallerRight = 0;
             for(int k = j+1; k < n ;k++){
                 if(rating[k] > rating[j]) countLargerRight++;
-                if(rating[k] < rating[j]) countSmallerRight++;
+                else if(rating[k] < rating[j]) countSmallerRight++;
             }
             count += countSmallerLeft * countLargerRight;
             count += countLargerLeft * countSmallerRight;
