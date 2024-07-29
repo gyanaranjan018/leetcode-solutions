@@ -15,8 +15,7 @@ class Solution {
                 if(rating[k] > rating[j]) countLargerRight++;
                 else if(rating[k] < rating[j]) countSmallerRight++;
             }
-            count += countSmallerLeft * countLargerRight;
-            count += countLargerLeft * countSmallerRight;
+            count += (countSmallerLeft * countLargerRight) + (countLargerLeft * countSmallerRight);
         }
         return count;
     }
