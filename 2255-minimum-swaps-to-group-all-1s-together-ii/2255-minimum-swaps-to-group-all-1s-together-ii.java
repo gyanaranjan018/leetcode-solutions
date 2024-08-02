@@ -3,17 +3,17 @@ class Solution {
         int i = 0, j = 0, n = nums.length;
         int tOnes = 0;
         for(int k = 0; k < n; k++){
-            if(nums[k] == 1) tOnes++;
+            tOnes += nums[k];
         }
         if(tOnes == 0 || tOnes == n) return 0;
         int cOnes = 0;
         int swaps = Integer.MAX_VALUE;
         while(i < n){
-            if(nums[j % n] == 1) cOnes++;
+            cOnes += nums[j%n];
             if(j-i+1 < tOnes) j++;
             else if(j-i+1 == tOnes){
                 swaps = Math.min(swaps, tOnes - cOnes);
-                if(nums[i] == 1) cOnes--;
+                cOnes -= nums[i];
                 i++;
                 j++;
             }
