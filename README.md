@@ -356,6 +356,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Dynamic Programming
@@ -393,6 +394,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Binary Search
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -428,4 +431,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
