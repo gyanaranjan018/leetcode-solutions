@@ -358,6 +358,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Dynamic Programming
 |  |
@@ -400,11 +401,13 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -435,4 +438,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
