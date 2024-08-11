@@ -1,5 +1,4 @@
 class Solution {
-    int[][] dir = {{-1, 0}, {0,1}, {1, 0}, {0, -1}};
     public int minDays(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
@@ -46,10 +45,9 @@ class Solution {
 
         vis[i][j] = true;
 
-        for(int k = 0; k < 4; k++){
-            int new_i = i + dir[k][0];
-            int new_j = j + dir[k][1];
-            dfs(matrix, vis, new_i, new_j, m, n);
-        }
+        dfs(matrix,vis,i+1,j,m,n);
+        dfs(matrix,vis,i-1,j,m,n);
+        dfs(matrix,vis,i,j+1,m,n);
+        dfs(matrix,vis,i,j-1,m,n);
     }
 }
