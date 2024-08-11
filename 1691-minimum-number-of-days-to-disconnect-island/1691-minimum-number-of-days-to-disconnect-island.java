@@ -27,10 +27,10 @@ class Solution {
 
     public int NumberOfIslands(int[][] matrix, int m, int n){
         int region = 0;
-        int[][] vis = new int[m][n];
+        boolean[][] vis = new boolean[m][n];
         for(int i =0; i< m; i++){
             for(int j =0; j< n; j++){
-                if(matrix[i][j] == 1 && vis[i][j] != 1){
+                if(matrix[i][j] == 1 && !vis[i][j]){
                     dfs(matrix, vis , i, j, m, n);
                     region++;
                 }
@@ -39,12 +39,12 @@ class Solution {
         return region;
     }
 
-    public void dfs(int[][] matrix, int[][] vis, int i, int j, int m, int n){
-        if(i < 0 || i >= m || j <0 || j>= n || matrix[i][j] == 0 || vis[i][j] == 1){
+    public void dfs(int[][] matrix, boolean[][] vis, int i, int j, int m, int n){
+        if(i < 0 || i >= m || j <0 || j>= n || matrix[i][j] == 0 || vis[i][j]){
             return;
         }
 
-        vis[i][j] = 1;
+        vis[i][j] = true;
 
         for(int k = 0; k < 4; k++){
             int new_i = i + dir[k][0];
