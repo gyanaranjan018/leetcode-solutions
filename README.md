@@ -315,6 +315,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -458,4 +462,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
