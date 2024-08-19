@@ -309,6 +309,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0207-course-schedule](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0040-combination-sum-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -418,6 +423,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -426,6 +432,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Indexed Tree
