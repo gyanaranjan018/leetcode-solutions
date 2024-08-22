@@ -503,4 +503,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
