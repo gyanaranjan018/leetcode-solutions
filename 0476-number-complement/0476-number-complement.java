@@ -1,7 +1,15 @@
 class Solution {
     public int findComplement(int num) {
-        int numBits = (int)(Math.log(num)/Math.log(2))+1;
-        int mask = (1 << numBits) - 1;
-        return num ^ mask;
+        int i = 0; 
+        int compliment = 0;
+
+        while(num != 0){
+            if((num & 1) == 0){  //if its a 0, the we need to flip it
+                compliment |= (1<<i);
+            }
+            num >>= 1; //right shifting num
+            i++;
+        }
+        return compliment;
     }
 }
