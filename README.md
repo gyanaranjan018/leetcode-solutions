@@ -307,6 +307,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
@@ -487,6 +489,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
