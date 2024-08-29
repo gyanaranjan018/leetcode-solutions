@@ -310,6 +310,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -510,6 +513,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
