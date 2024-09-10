@@ -555,5 +555,6 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
