@@ -27,13 +27,9 @@ class Solution {
     }
 
     public int gcd(int a, int b){
-        int i = (a<b) ? a : b;
-
-        for(i =i; i>1; i--){
-            if(a%i == 0 && b%i == 0){
-                return i;
-            }
-        }
-        return 1;
+        if(b == 0)
+            return a;
+        else
+            return gcd(b, Math.abs(a-b));
     }
 }
