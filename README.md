@@ -422,6 +422,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0564-find-the-closest-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -563,4 +565,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
