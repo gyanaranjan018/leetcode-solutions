@@ -12,12 +12,16 @@ class Solution {
             int start = queries[i][0];
             int end = queries[i][1];
 
+            res[i] = cumulative[end] ^ (start == 0 ? 0 : cumulative[start - 1]);
+            
+            /*
             if(start != 0){
                 res[i] = cumulative[end] ^ cumulative[start-1];
             }
             else{
                 res[i] = cumulative[end];
             }
+            */
         }
 
         return res;
