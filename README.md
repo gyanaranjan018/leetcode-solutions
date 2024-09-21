@@ -311,6 +311,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0207-course-schedule](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
@@ -604,4 +605,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
