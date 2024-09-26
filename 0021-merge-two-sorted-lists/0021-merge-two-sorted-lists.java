@@ -23,18 +23,12 @@ class Solution {
             }
             res = res.next;
         }
-
-        while(list1 != null){
-            res.next = new ListNode(list1.val);
-            res = res.next;
-            list1= list1.next;
+        if(list1 != null){
+            res.next = list1;
         }
-
-        while(list2 != null){
-            res.next = new ListNode(list2.val);
-            res = res.next;
-            list2 = list2.next;
-        }
+        if(list2 != null){
+            res.next = list2;
+        }   
         return head.next;
     }
 }
