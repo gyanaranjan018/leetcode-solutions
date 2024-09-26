@@ -426,6 +426,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Database
 |  |
