@@ -1,35 +1,30 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        Stack<Integer> st = new Stack<>();
+        Stack<Integer> s = new Stack<>();
+
         for(int a : asteroids){
-            if(st.isEmpty()){
-                st.push(a);
-                continue;
+            if(a > 0){
+                s.push(a);
             }
-            while(!st.isEmpty() && st.peek() > 0 && a < 0){
-                int sum = a + st.peek();
-                if(sum < 0){
-                    st.pop();
+            else{ 
+                while(!s.isEmpty() && s.peek() > 0 && s.peek() + a < 0){
+                    s.pop();
+                } 
+                if(!s.isEmpty() && s.peek() + a == 0){
+                    s.pop();
                 }
-                else if(sum > 0){
-                    a = 0;
+                else if(s.isEmpty() || s.peek() < 0){
+                    s.push(a);
                 }
-                else{
-                    st.pop();
-                    a = 0;
-                }
-            }
-            if(a != 0){
-                st.push(a);
             }
         }
 
-        int[] res = new int[st.size()];
-        int i = res.length - 1;
-
-        while( i >=0 ){
-            res[i--] = st.pop();
+        int[] res = new int[s.size()];
+        int i = s.size() - 1;
+        while(!s.isEmpty()){
+            res[i--] = s.pop();
         }
+
         return res;
     }
 }
