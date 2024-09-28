@@ -429,6 +429,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
@@ -522,6 +524,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
