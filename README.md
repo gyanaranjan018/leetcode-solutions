@@ -528,6 +528,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0564-find-the-closest-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Strongly Connected Component
 |  |
