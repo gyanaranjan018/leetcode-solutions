@@ -370,6 +370,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0238-product-of-array-except-self](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
