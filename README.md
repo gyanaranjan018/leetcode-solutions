@@ -390,6 +390,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
