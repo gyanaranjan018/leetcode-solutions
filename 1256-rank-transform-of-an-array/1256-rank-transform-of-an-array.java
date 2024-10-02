@@ -1,15 +1,16 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
         int n = arr.length;
-        SortedSet<Integer> set = new TreeSet<>();
-        for(int i : arr){
-            set.add(i);
-        }
+        
+        int[] dup = arr.clone();
+        Arrays.sort(dup); //nlogn
 
         Map<Integer, Integer> map = new HashMap<>();
         int counter = 1;
-        for(int i : set){
-            map.put(i, counter++);
+        for(int i : dup){
+            if(!map.containsKey(i)){
+                map.put(i, counter++);
+            }
         }
 
         int res[] = new int[n];
