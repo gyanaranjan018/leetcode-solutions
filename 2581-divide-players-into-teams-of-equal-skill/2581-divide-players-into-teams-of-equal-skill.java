@@ -1,6 +1,55 @@
 class Solution {
     public long dividePlayers(int[] skill) {
 
+        int n = skill.length;
+
+        if(n % 2 == 1){
+            return -1;
+        }
+        
+        int noOfteams = n / 2;
+
+        long sum = 0;
+        int[] arr = new int[1001];
+
+        for(int i : skill){
+            arr[i]++;
+            sum += i;
+        }
+
+        if(sum % noOfteams != 0){
+            return -1;
+        }
+
+        long perTeamSkill = sum / noOfteams;
+
+        
+        int idx = 0;
+        long chemistry = 0;
+
+        for(int i = 0; i<n; i++){
+            long find = perTeamSkill - skill[i];
+            if(find < 0){
+                return -1;
+            }
+            if(arr[(int)find] > 0){
+                chemistry += (skill[i] * find);
+                arr[(int)find]--;
+                arr[skill[i]]--;
+            }
+        }
+
+        for(int i = 0; i<= 1000; i++){
+            if(arr[i] > 0){
+                return -1;
+            }
+        }
+
+        return chemistry;
+
+
+
+        /*
         //By sorting the array 
         int n = skill.length;
 
@@ -20,6 +69,11 @@ class Solution {
         }
 
         return chemistry;
+        */
+
+
+
+
 
 
         /*
