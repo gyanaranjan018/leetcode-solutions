@@ -20,8 +20,8 @@ class Solution {
         long perTeamSkill = sum / noOfteams;
 
         HashMap<Long, Integer> map = new HashMap<>();
-        long[][] teams = new long[noOfteams][2];
         int idx = 0;
+        long chemistry = 0;
 
         for(int i = 0; i<n; i++){
             long find = perTeamSkill - skill[i];
@@ -29,9 +29,7 @@ class Solution {
                 return -1;
             }
             if(map.containsKey(find)){
-                teams[idx][0] = skill[i];
-                teams[idx][1] = find;
-                idx++;
+                chemistry += (skill[i] * find);
                 if(map.get(find) == 1){
                     map.remove(find);
                 }
@@ -47,12 +45,6 @@ class Solution {
         if(map.size() > 0){
             return -1;
         }
-
-        long chemistry = 0;
-
-        for(int i = 0; i < noOfteams; i++){
-            chemistry += (teams[i][0] * teams[i][1]);
-        } 
 
         return chemistry;
     }
