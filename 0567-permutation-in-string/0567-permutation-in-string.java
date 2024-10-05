@@ -3,7 +3,7 @@ class Solution {
         int k = s1.length();
         int i = 0, j = 0, n = s2.length();
 
-        int[] arr = new int[256];
+        int[] arr = new int[26];
         for(char c : s1.toCharArray()){
             arr[c-'a']++;
         }
