@@ -1,33 +1,31 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int k = s1.length();
-        int i = 0, j = 0, n = s2.length();
-
-        if(k > s2.length()){
+        int n = s1.length();
+        int m = s2.length();
+        
+        if(n > m){
             return false;
         }
 
-        int[] arr = new int[26];
-        for(char c : s1.toCharArray()){
-            arr[c-'a']++;
+        int[] s1Freq = new int[26];
+        int[] s2Freq = new int[26];
+
+        for (int i = 0; i < n; i++) {
+            s1Freq[s1.charAt(i) - 'a']++;
         }
 
-        while(j < n){
-            arr[s2.charAt(j)-'a']--;
+        int i = 0, j = 0;
 
-            if(j-i+1 == k){
-                boolean check = true;
-                for(char c : s1.toCharArray()){
-                    if(arr[c-'a'] != 0){
-                        check = false;
-                        break;
-                    }
-                }
-                if(check){
-                    return true;
-                }
-                arr[s2.charAt(i)-'a']++;
+        while(j < m){
+            s2Freq[s2.charAt(j)-'a']++;
+
+            if(j-i+1 > n){
+                s2Freq[s2.charAt(i)-'a']--;
                 i++;
+            }
+
+            if(Arrays.equals(s1Freq, s2Freq)){
+                return true;
             }
             j++;
         }
