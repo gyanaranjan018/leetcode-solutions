@@ -473,6 +473,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
@@ -541,6 +544,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
