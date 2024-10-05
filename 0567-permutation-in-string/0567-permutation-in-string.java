@@ -3,6 +3,10 @@ class Solution {
         int k = s1.length();
         int i = 0, j = 0, n = s2.length();
 
+        if(k > s2.length()){
+            return false;
+        }
+
         int[] arr = new int[26];
         for(char c : s1.toCharArray()){
             arr[c-'a']++;
