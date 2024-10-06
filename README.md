@@ -393,6 +393,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Indexed Tree
@@ -547,6 +549,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
