@@ -6,6 +6,33 @@ class Solution {
             s2 = temp;
         }
 
+        String[] s1arr = s1.split(" ");
+        String[] s2arr = s2.split(" ");
+
+        int i = 0, j = s1arr.length - 1; // s1
+        int k = 0, l = s2arr.length - 1; // s2
+
+        while(k < s2arr.length && i < s1arr.length && s2arr[k].equals(s1arr[i])){
+            k++;
+            i++;
+        }
+
+        while(l >= k && s2arr[l].equals(s1arr[j])){
+            l--;
+            j--;
+        }
+
+        return l < k;
+
+        /*
+
+
+        if(s1.length() < s2.length()){
+            String temp = s1;
+            s1 = s2;
+            s2 = temp;
+        }
+
         List<String> vec1 = new ArrayList<>();
         List<String> vec2 = new ArrayList<>();
 
@@ -29,7 +56,7 @@ class Solution {
         }
 
         return l < k;
+        
+        */
     }
-
-    
 }
