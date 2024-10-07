@@ -8,13 +8,12 @@ class Solution {
         while(j < arr.length){
             if(i >= 0 && ((arr[j] == 'B' && arr[i] == 'A') || (arr[j] == 'D' && arr[i] == 'C'))){
                 i--;
-                j++;
             }
             else{
                 i++;
                 arr[i] = arr[j];
-                j++;
             }
+            j++;
         }
 
         return i+1;
