@@ -380,6 +380,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -678,4 +680,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
