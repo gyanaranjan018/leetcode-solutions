@@ -365,6 +365,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
