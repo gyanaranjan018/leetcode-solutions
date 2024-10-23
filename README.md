@@ -406,6 +406,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2737-row-with-maximum-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [2737-row-with-maximum-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 ## Union Find
 |  |
 | ------- |
