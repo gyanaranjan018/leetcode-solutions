@@ -395,6 +395,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1833-find-the-highest-altitude](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
