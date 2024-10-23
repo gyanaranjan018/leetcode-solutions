@@ -390,6 +390,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1677-matrix-diagonal-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
