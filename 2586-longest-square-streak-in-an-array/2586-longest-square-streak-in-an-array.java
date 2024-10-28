@@ -20,7 +20,7 @@ class Solution {
 
         return count;
 
-        /* BRUTE - FORCE APPROCH
+        /* Better Approch than above
         HashSet<Double> set = new HashSet<>();
         for(int i : nums){
             set.add((double)i);
