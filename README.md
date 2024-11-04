@@ -522,6 +522,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3451-string-compression-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3451-string-compression-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
