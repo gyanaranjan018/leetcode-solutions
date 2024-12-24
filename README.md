@@ -324,6 +324,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -628,6 +631,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0226-invert-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
