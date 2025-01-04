@@ -382,6 +382,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0605-can-place-flowers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
