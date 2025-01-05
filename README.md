@@ -407,6 +407,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2465-shifting-letters-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3451-string-compression-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3451-string-compression-iii) |
 ## Binary Indexed Tree
@@ -663,6 +665,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1694-make-sum-divisible-by-p](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2465-shifting-letters-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
