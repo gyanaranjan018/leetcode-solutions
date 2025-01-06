@@ -13,11 +13,12 @@ class Solution {
 
         int a = 0;
         int b = 1;
+        int c;
 
         for(int i = 2; i<=n; i++){
-            int temp = a+b;
+            c = a+b;
             a = b;
-            b = temp;
+            b = c;
         }
 
         return b;
