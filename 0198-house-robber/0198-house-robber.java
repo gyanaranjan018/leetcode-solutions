@@ -20,6 +20,7 @@ class Solution {
     }
     */
 
+    /*
     //Buttom up approch
     public int rob(int[] nums) {
         int n = nums.length;
@@ -36,5 +37,25 @@ class Solution {
             dp[i] = Math.max(steal, skip);
         }
         return dp[n];
+    }
+    */
+
+
+    //Constant space solution
+    public int rob(int[] nums) {
+        int n = nums.length;
+        if(n == 1){
+            return nums[0];
+        }
+        int prevPrev = 0;
+        int prev = nums[0];
+
+        for(int i = 2; i<= n; i++){
+            int steal = nums[i-1] + prevPrev;
+            int skip = prev;
+            prevPrev = prev;
+            prev = Math.max(steal, skip);
+        }
+        return prev;
     }
 }
