@@ -405,6 +405,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1833-find-the-highest-altitude](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
