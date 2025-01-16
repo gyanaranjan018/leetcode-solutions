@@ -378,6 +378,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0213-house-robber-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0198-house-robber](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
