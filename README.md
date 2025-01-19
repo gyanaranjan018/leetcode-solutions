@@ -383,6 +383,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
