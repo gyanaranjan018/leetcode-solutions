@@ -1,26 +1,21 @@
 class Solution {
-
-    public boolean isSubset(String word1, String word2){
-        int totalskip = 0;
+    //Recursion + Memoization
+    public boolean checkPredecessor(String prev, String curr){
+        if(curr.length() - prev.length() != 1){
+            return false;
+        }
         int i = 0;
         int j = 0;
-        while(i < word1.length() || j < word2.length()){
-            if(i >= word1.length() || word1.charAt(i) != word2.charAt(j)){
-                totalskip++;
-                if(totalskip > 1){
-                    return false;
-                }
-                j++;
-            }
-            else{
+        while(i < prev.length() && j < curr.length()){
+            if(prev.charAt(i) == curr.charAt(j)){
                 i++;
-                j++;
             }
+            j++;
         }
-        return totalskip == 1;
+        return i == prev.length();
     }
     public int solve(String[] words, int idx, int prev, int[][]dp){
-        if(idx >= words.length){
+        if(idx == words.length){
             return 0;
         }
         if(prev != -1 && dp[idx][prev] != -1){
@@ -28,7 +23,7 @@ class Solution {
         }
 
         int take = 0;
-        if(prev == -1 || (words[idx].length() - words[prev].length() == 1 && isSubset(words[prev], words[idx]))){
+        if(prev == -1 || (checkPredecessor(words[prev], words[idx]))){
             take = solve(words, idx+1, idx, dp) + 1;
         }
         int skip = solve(words, idx+1, prev, dp);
