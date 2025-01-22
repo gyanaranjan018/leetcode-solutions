@@ -1,8 +1,8 @@
 class Solution {
     //Recursion + Memoization
-    private int N, M, K;
-    private final int MOD = 1000000007;
-    private int[][][] dp;
+    int N, M, K;
+    int MOD = 1000000007;
+    int[][][] dp;
     public int numOfArrays(int n, int m, int k) {
         N = n;
         M = m;
