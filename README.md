@@ -435,6 +435,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0303-range-sum-query-immutable](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
