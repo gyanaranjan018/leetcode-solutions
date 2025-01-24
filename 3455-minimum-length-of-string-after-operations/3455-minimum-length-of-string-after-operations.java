@@ -4,8 +4,8 @@ class Solution {
 
         int[] freq = new int[26];
 
-        for(char c : s.toCharArray()){
-            freq[c-'a']++; 
+        for(int i =0; i<n; i++){
+            freq[s.charAt(i)-'a']++; 
         }
 
         int res = 0;
