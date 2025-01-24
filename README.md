@@ -524,6 +524,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -548,6 +549,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2465-shifting-letters-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3451-string-compression-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
