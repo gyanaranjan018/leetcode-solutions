@@ -397,6 +397,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1333-sort-the-jumbled-numbers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1677-matrix-diagonal-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
+| [1524-string-matching-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -755,4 +757,5 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [1524-string-matching-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
