@@ -33,6 +33,7 @@ class Solution {
     }
     */
 
+    /*
     //Buttom - Up approch
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
@@ -50,5 +51,48 @@ class Solution {
         }
 
         return maxLIS;
+    }
+    */
+
+
+    //(Using concept of Patience Sorting (O(nlogn))
+    //T.C : O(nlogn)
+    //S.C : O(n)
+    public int lengthOfLIS(int[] nums) {
+        int n = nums.length;
+        List<Integer> list= new ArrayList<>();
+        for(int i = 0; i < n; i++){
+
+            /*
+                Why lower bound?
+                We want an increasing subsequence, and hence
+                we want to eliminate the duplicates as well.
+                lower_bound returns the index of "next greater or equal to."
+            */
+
+            int lb = lowerBound(list, nums[i]);
+            
+            if (lb == list.size())
+                list.add(nums[i]); // greatest: so insert it
+            else
+                list.set(lb, nums[i]); // replace
+        }
+        return list.size();
+    }
+
+    public int lowerBound(List<Integer> list, int target){
+        int left = 0, right = list.size();
+        int res = list.size();
+        while(left < right){
+            int mid = left + (right - left) / 2;
+            
+            if (list.get(mid) < target) {
+                left = mid + 1;
+            } else {
+                res = mid;
+                right = mid;
+            }
+        }
+        return res;
     }
 }
