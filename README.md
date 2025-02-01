@@ -420,6 +420,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
+| [3429-special-array-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
