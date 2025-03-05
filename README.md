@@ -635,6 +635,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [2649-count-total-number-of-colored-cells](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Strongly Connected Component
 |  |
