@@ -422,6 +422,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3429-special-array-i) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Two Pointers
 |  |
 | ------- |
