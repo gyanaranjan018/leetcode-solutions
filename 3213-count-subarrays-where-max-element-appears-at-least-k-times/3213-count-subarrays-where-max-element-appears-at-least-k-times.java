@@ -10,7 +10,7 @@ class Solution {
                 max = nums[i];
             }
         }
-        /*
+        
         // Approch 1 - Sliding Window
         long res = 0;
         int i = 0, j = 0;
@@ -29,8 +29,8 @@ class Solution {
             j++;
         }
         return res;
-        */
-    
+        
+        /*
         // Approch 2 - Index Tracking
         long res = 0;
         int i = 0;
@@ -48,5 +48,6 @@ class Solution {
             i++;
         }
         return res;
+        */
     }
 }
