@@ -1,4 +1,6 @@
 class Solution {
+    
+    
     public long countSubarrays(int[] nums, int k) {
         int max = -1;
         int n = nums.length;
@@ -8,7 +10,8 @@ class Solution {
                 max = nums[i];
             }
         }
-        // Sliding window
+        /*
+        // Approch 1 - Sliding Window
         long res = 0;
         int i = 0, j = 0;
         int count = 0;
@@ -24,6 +27,25 @@ class Solution {
                 i++;
             }
             j++;
+        }
+        return res;
+        */
+    
+        // Approch 2 - Index Tracking
+        long res = 0;
+        int i = 0;
+        int count = 0;
+        List<Integer> indices = new ArrayList<>();
+        while(i < n){
+            if(nums[i] == max){
+                count++;
+                indices.add(i);
+            }
+            if(count >= k){
+                int index = indices.get(indices.size() - k);
+                res += (index + 1);
+            }
+            i++;
         }
         return res;
     }
