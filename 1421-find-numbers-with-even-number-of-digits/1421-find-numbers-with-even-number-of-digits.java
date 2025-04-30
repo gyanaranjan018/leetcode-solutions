@@ -57,8 +57,8 @@ class Solution {
 
         //Approch 5 (Basic observation of the input)
         int result = 0;
-        for(int i = 0; i< nums.length; i++){
-            if((nums[i] > 9 && nums[i] < 100) || (nums[i] > 999 && nums[i] < 10000) || (nums[i] == 100000)){
+        for(int num : nums){
+            if((num > 9 && num < 100) || (num > 999 && num < 10000) || (num == 100000)){
                 result++;
             }
         }
