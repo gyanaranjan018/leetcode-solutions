@@ -29,12 +29,24 @@ class Solution {
         return result;
         */
 
-
+        /*
         // Approch 3 (Using floor(log num base 10) + 1 formula)
 
         int result = 0;
         for(int i = 0; i < nums.length; i++){
             int digits = (int)Math.floor(Math.log10(nums[i])) + 1;
+            if(digits % 2 == 0){
+                result++;
+            }
+        }
+        return result;
+        */
+
+
+        // Approch 4 (Using ceil)
+        int result = 0;
+        for(int i = 0; i < nums.length; i++){
+            int digits = (int)Math.ceil(Math.log10(nums[i]+1));
             if(digits % 2 == 0){
                 result++;
             }
