@@ -42,12 +42,23 @@ class Solution {
         return result;
         */
 
-
+        /*
         // Approch 4 (Using ceil)
         int result = 0;
         for(int i = 0; i < nums.length; i++){
             int digits = (int)Math.ceil(Math.log10(nums[i]+1));
             if(digits % 2 == 0){
+                result++;
+            }
+        }
+        return result;
+        */
+
+
+        //Approch 5 (Basic observation of the input)
+        int result = 0;
+        for(int i = 0; i< nums.length; i++){
+            if((nums[i] > 9 && nums[i] < 100) || (nums[i] > 999 && nums[i] < 10000) || (nums[i] == 100000)){
                 result++;
             }
         }
