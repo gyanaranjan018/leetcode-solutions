@@ -380,6 +380,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0605-can-place-flowers) |
