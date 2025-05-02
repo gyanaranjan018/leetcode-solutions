@@ -442,6 +442,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0868-push-dominoes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
