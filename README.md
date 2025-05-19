@@ -430,6 +430,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2737-row-with-maximum-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3321-type-of-triangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2649-count-total-number-of-colored-cells](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Strongly Connected Component
 |  |
 | ------- |
