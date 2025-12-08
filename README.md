@@ -485,6 +485,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
