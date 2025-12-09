@@ -372,6 +372,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0198-house-robber) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
