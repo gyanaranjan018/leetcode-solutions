@@ -370,6 +370,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0001-two-sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0015-3sum](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
