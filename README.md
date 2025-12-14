@@ -575,6 +575,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1798-max-number-of-k-sum-pairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
@@ -784,6 +787,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
