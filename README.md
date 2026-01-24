@@ -393,6 +393,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0721-accounts-merge](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1013-fibonacci-number) |
