@@ -1,4 +1,5 @@
 class Solution {
+    /*
     // Dp on grid solution tc - o(m*n) sc - o(m*n)
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
@@ -18,5 +19,21 @@ class Solution {
 
         return dp[m-1][n-1];
     }
+    */
+    
+    // Dp on grid Space optimized solution tc - o(m*n) sc - o(n)
+    public int uniquePaths(int m, int n) {
+        int[] dp = new int[n];
+        
+        for(int j = 0; j < n; j++){
+            dp[j] = 1;
+        }
 
+        for (int i = 1; i < m; i++){
+            for (int j = 1; j < n; j++){
+                dp[j] = dp[j] + dp[j-1];
+            }
+        }
+        return dp[n-1];
+    }
 }
