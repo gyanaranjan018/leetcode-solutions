@@ -458,6 +458,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1013-fibonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1511-count-number-of-teams) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0920-uncommon-words-from-two-sentences](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
