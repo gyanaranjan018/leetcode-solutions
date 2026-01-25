@@ -21,7 +21,7 @@ class Solution {
     }
 
     */
-
+    /*
     // Tabulation approch
     public int minCostClimbingStairs(int[] cost) {
         int[] dp = new int[1000];
@@ -32,5 +32,20 @@ class Solution {
             dp[i] = cost[i] + Math.min(dp[i-1], dp[i-2]);
         }
         return Math.min(dp[n-1], dp[n-2]);
+    }
+    */
+
+    //space optimized
+    public int minCostClimbingStairs(int[] cost) {
+        int n = cost.length;
+        int a = cost[0];
+        int b = cost[1];
+        int c;
+        for (int i = 2; i < n; i++){
+            c = cost[i] + Math.min(a, b);
+            a = b;
+            b = c;
+        }
+        return Math.min(a, b);
     }
 }
