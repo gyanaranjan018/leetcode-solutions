@@ -1,61 +1,25 @@
 class Solution {
-    /*
-    // Top down approch(Recursion and memoization)
-    public int rob(int[] nums) {
-        int[] dp = new int[nums.length + 1];
-        Arrays.fill(dp, -1);
-        return solve(nums, 0, dp);
-    }
+    // Memoization approch
+    int[] dp = new int[100];
 
-    public int solve(int[] nums, int i, int[] dp){
-        if(i >= nums.length){
+    public int solve(int i, int[] nums){
+        if (i >= nums.length){
             return 0;
         }
-        if(dp[i] != -1){
+        if (dp[i] != -1){
             return dp[i];
         }
-        int steal = nums[i] + solve(nums, i+2, dp);
-        int skip = solve(nums, i+1, dp);
-        return dp[i] = Math.max(steal, skip);
+        int take = nums[i] + solve(i+2, nums);
+        int skip = solve(i+1, nums);
+        return dp[i] = Math.max(take, skip);
     }
-    */
 
-    /*
-    //Buttom up approch
     public int rob(int[] nums) {
+        Arrays.fill(dp, -1);
         int n = nums.length;
-        if(n==1){
+        if ( n == 1){
             return nums[0];
         }
-        int[] dp = new int[n + 1];
-        //dp[i] = max stolen money till i house
-        dp[0] = 0;
-        dp[1] = nums[0];
-        for(int i = 2; i<= n; i++){
-            int steal = nums[i-1] + dp[i - 2];
-            int skip = dp[i-1];
-            dp[i] = Math.max(steal, skip);
-        }
-        return dp[n];
-    }
-    */
-
-
-    //Constant space solution
-    public int rob(int[] nums) {
-        int n = nums.length;
-        if(n == 1){
-            return nums[0];
-        }
-        int prevPrev = 0;
-        int prev = nums[0];
-
-        for(int i = 2; i<= n; i++){
-            int steal = nums[i-1] + prevPrev;
-            int skip = prev;
-            prevPrev = prev;
-            prev = Math.max(steal, skip);
-        }
-        return prev;
+        return solve(0, nums);
     }
 }
