@@ -446,6 +446,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0062-unique-paths](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0415-add-strings) |
