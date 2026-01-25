@@ -442,6 +442,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0202-happy-number) |
@@ -813,4 +815,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
