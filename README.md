@@ -451,6 +451,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0213-house-robber-ii](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [0241-different-ways-to-add-parentheses](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
