@@ -520,6 +520,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [1137-n-th-tribonacci-number](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [2169-count-operations-to-obtain-zero](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2649-count-total-number-of-colored-cells](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
