@@ -436,6 +436,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2737-row-with-maximum-ones) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -837,4 +839,8 @@ A collection of LeetCode questions and it's solution to ace the coding interview
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gyanaranjan018/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
